@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

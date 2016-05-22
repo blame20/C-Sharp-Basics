@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

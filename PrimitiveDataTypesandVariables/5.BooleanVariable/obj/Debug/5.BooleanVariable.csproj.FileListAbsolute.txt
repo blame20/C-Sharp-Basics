@@ -1,0 +1,8 @@
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe.config
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\5.BooleanVariable\bin\Debug\5.BooleanVariable.pdb
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\5.BooleanVariable\obj\Debug\5.BooleanVariable.exe
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\5.BooleanVariable\obj\Debug\5.BooleanVariable.pdb
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\5.BooleanVariable\bin\Debug\5.BooleanVariable.exe.config
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\5.BooleanVariable\obj\Debug\5.BooleanVariable.exe
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\5.BooleanVariable\obj\Debug\5.BooleanVariable.pdb

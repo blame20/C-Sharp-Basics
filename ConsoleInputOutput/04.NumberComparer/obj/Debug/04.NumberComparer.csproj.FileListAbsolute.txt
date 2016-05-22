@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.exe.config
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.pdb

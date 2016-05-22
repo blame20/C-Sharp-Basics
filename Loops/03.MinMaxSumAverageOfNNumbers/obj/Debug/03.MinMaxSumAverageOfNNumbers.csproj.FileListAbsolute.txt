@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Loops\03.MinMaxSumAverageOfNNumbers\bin\Debug\03.MinMaxSumAverageOfNNumbers.exe.config
+C:\Users\blame\Desktop\VSprojects\Loops\03.MinMaxSumAverageOfNNumbers\bin\Debug\03.MinMaxSumAverageOfNNumbers.exe
+C:\Users\blame\Desktop\VSprojects\Loops\03.MinMaxSumAverageOfNNumbers\bin\Debug\03.MinMaxSumAverageOfNNumbers.pdb
+C:\Users\blame\Desktop\VSprojects\Loops\03.MinMaxSumAverageOfNNumbers\obj\Debug\03.MinMaxSumAverageOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Loops\03.MinMaxSumAverageOfNNumbers\obj\Debug\03.MinMaxSumAverageOfNNumbers.exe
+C:\Users\blame\Desktop\VSprojects\Loops\03.MinMaxSumAverageOfNNumbers\obj\Debug\03.MinMaxSumAverageOfNNumbers.pdb

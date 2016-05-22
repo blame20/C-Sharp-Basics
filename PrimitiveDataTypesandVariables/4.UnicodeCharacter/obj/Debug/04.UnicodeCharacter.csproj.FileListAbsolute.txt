@@ -1,0 +1,3 @@
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\4.UnicodeCharacter\bin\Debug\4.UnicodeCharacter.exe.config
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.exe
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\4.UnicodeCharacter\obj\Debug\4.UnicodeCharacter.pdb

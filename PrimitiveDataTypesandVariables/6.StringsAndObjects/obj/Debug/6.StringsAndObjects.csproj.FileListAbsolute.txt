@@ -1,0 +1,8 @@
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe.config
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.pdb
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.exe
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.pdb
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe.config
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.exe
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.pdb

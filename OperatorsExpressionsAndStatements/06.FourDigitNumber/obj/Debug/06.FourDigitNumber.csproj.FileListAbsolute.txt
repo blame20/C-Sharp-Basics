@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb

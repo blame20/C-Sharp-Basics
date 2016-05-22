@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb

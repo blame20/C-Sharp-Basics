@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe.config
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.pdb
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.exe
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.pdb
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.csprojResolveAssemblyReference.cache

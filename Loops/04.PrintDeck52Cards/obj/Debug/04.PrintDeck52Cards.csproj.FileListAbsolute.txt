@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Loops\04.PrintDeck52Cards\bin\Debug\04.PrintDeck52Cards.exe.config
+C:\Users\blame\Desktop\VSprojects\Loops\04.PrintDeck52Cards\bin\Debug\04.PrintDeck52Cards.exe
+C:\Users\blame\Desktop\VSprojects\Loops\04.PrintDeck52Cards\bin\Debug\04.PrintDeck52Cards.pdb
+C:\Users\blame\Desktop\VSprojects\Loops\04.PrintDeck52Cards\obj\Debug\04.PrintDeck52Cards.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Loops\04.PrintDeck52Cards\obj\Debug\04.PrintDeck52Cards.exe
+C:\Users\blame\Desktop\VSprojects\Loops\04.PrintDeck52Cards\obj\Debug\04.PrintDeck52Cards.pdb

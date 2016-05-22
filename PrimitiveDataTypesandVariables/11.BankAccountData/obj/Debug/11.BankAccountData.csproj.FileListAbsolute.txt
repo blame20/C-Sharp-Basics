@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\11.BankAccountData\obj\Debug\11.BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\11.BankAccountData\obj\Debug\11.BankAccountData.pdb

@@ -1,0 +1,3 @@
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe.config
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.exe
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.pdb

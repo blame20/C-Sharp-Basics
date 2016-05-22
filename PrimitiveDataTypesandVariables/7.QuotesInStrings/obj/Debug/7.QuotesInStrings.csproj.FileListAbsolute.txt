@@ -1,0 +1,7 @@
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe.config
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe.config
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.pdb
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.exe
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.pdb

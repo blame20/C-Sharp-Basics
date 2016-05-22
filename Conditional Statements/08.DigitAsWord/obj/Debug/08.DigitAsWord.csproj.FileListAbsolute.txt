@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

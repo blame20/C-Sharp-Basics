@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Loops\02.NumbersNotDivisible3and7\obj\Debug\02.NumbersNotDivisible3and7.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Loops\02.NumbersNotDivisible3and7\bin\Debug\02.NumbersNotDivisible3and7.exe.config
+C:\Users\blame\Desktop\VSprojects\Loops\02.NumbersNotDivisible3and7\bin\Debug\02.NumbersNotDivisible3and7.exe
+C:\Users\blame\Desktop\VSprojects\Loops\02.NumbersNotDivisible3and7\bin\Debug\02.NumbersNotDivisible3and7.pdb
+C:\Users\blame\Desktop\VSprojects\Loops\02.NumbersNotDivisible3and7\obj\Debug\02.NumbersNotDivisible3and7.exe
+C:\Users\blame\Desktop\VSprojects\Loops\02.NumbersNotDivisible3and7\obj\Debug\02.NumbersNotDivisible3and7.pdb

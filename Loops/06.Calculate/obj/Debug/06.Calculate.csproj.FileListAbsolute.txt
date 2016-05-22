@@ -1,0 +1,9 @@
+C:\Users\blame\Desktop\VSprojects\Loops\06.CalculateN!K!\bin\Debug\06.CalculateN!K!.exe.config
+C:\Users\blame\Desktop\VSprojects\Loops\06.CalculateN!K!\obj\Debug\06.CalculateN!K!.exe
+C:\Users\blame\Desktop\VSprojects\Loops\06.CalculateN!K!\obj\Debug\06.CalculateN!K!.pdb
+C:\Users\blame\Desktop\VSprojects\Loops\06.Calculate\bin\Debug\06.CalculateN!K!.exe.config
+C:\Users\blame\Desktop\VSprojects\Loops\06.Calculate\obj\Debug\06.CalculateN!K!.exe
+C:\Users\blame\Desktop\VSprojects\Loops\06.Calculate\obj\Debug\06.CalculateN!K!.pdb
+C:\Users\blame\Desktop\VSprojects\Loops\06.Calculate\bin\Debug\06.CalculateN!K!.exe
+C:\Users\blame\Desktop\VSprojects\Loops\06.Calculate\bin\Debug\06.CalculateN!K!.pdb
+C:\Users\blame\Desktop\VSprojects\Loops\06.Calculate\obj\Debug\06.Calculate.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb

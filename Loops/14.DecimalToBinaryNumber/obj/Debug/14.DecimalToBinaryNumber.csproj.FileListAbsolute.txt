@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\Loops\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe.config
+C:\Users\blame\Desktop\VSprojects\Loops\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.exe
+C:\Users\blame\Desktop\VSprojects\Loops\14.DecimalToBinaryNumber\bin\Debug\14.DecimalToBinaryNumber.pdb
+C:\Users\blame\Desktop\VSprojects\Loops\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.exe
+C:\Users\blame\Desktop\VSprojects\Loops\14.DecimalToBinaryNumber\obj\Debug\14.DecimalToBinaryNumber.pdb

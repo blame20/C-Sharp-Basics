@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe.config
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.exe
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\14.PrintTheASCIITable\bin\Debug\14.PrintTheASCIITable.pdb
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.exe
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.pdb
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\14.PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.csprojResolveAssemblyReference.cache

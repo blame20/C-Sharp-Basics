@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.exe.config
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.exe
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.pdb
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.exe
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.pdb

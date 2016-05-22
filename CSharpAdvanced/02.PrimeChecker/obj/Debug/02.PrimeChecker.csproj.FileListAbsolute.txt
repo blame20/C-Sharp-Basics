@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\CSharpAdvanced\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe.config
+C:\Users\blame\Desktop\VSprojects\CSharpAdvanced\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+C:\Users\blame\Desktop\VSprojects\CSharpAdvanced\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+C:\Users\blame\Desktop\VSprojects\CSharpAdvanced\02.PrimeChecker\obj\Debug\02.PrimeChecker.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\CSharpAdvanced\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+C:\Users\blame\Desktop\VSprojects\CSharpAdvanced\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb

@@ -1,0 +1,3 @@
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\1.Declare Variables\bin\Debug\1.Declare Variables.exe.config
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\1.Declare Variables\obj\Debug\1.Declare Variables.exe
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\1.Declare Variables\obj\Debug\1.Declare Variables.pdb

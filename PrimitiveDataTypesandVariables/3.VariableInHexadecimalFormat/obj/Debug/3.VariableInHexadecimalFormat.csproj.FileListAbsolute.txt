@@ -1,0 +1,8 @@
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.exe.config
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.exe
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.pdb
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\3.VariableInHexadecimalFormat\obj\Debug\3.VariableInHexadecimalFormat.exe
+c:\users\blame\documents\visual studio 2015\Projects\PrimitiveDataTypesandVariables\3.VariableInHexadecimalFormat\obj\Debug\3.VariableInHexadecimalFormat.pdb
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\3.VariableInHexadecimalFormat\bin\Debug\3.VariableInHexadecimalFormat.exe.config
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\3.VariableInHexadecimalFormat\obj\Debug\3.VariableInHexadecimalFormat.exe
+C:\Users\blame\Desktop\VSprojects\PrimitiveDataTypesandVariables\3.VariableInHexadecimalFormat\obj\Debug\3.VariableInHexadecimalFormat.pdb

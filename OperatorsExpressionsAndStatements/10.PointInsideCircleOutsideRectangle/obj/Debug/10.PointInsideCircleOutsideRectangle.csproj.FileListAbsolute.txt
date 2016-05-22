@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.exe.config
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\10.PointInsideCircleOutsideRectangle\bin\Debug\10.PointInsideCircleOutsideRectangle.pdb
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\10.PointInsideCircleOutsideRectangle\obj\Debug\10.PointInsideCircleOutsideRectangle.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\10.PointInsideCircleOutsideRectangle\obj\Debug\10.PointInsideCircleOutsideRectangle.pdb

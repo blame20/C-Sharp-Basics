@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb

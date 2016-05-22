@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Exam21February2016\Problem1\bin\Debug\Problem1.exe.config
+C:\Users\blame\Desktop\VSprojects\Exam21February2016\Problem1\bin\Debug\Problem1.exe
+C:\Users\blame\Desktop\VSprojects\Exam21February2016\Problem1\bin\Debug\Problem1.pdb
+C:\Users\blame\Desktop\VSprojects\Exam21February2016\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Exam21February2016\Problem1\obj\Debug\Problem1.exe
+C:\Users\blame\Desktop\VSprojects\Exam21February2016\Problem1\obj\Debug\Problem1.pdb

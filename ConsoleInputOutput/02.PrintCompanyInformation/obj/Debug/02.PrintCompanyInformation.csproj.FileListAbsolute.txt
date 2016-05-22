@@ -1,0 +1,11 @@
+c:\users\blame\documents\visual studio 2015\Projects\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+c:\users\blame\documents\visual studio 2015\Projects\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+c:\users\blame\documents\visual studio 2015\Projects\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+c:\users\blame\documents\visual studio 2015\Projects\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+c:\users\blame\documents\visual studio 2015\Projects\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+C:\Users\blame\Desktop\VSprojects\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache

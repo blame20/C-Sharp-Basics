@@ -1,0 +1,10 @@
+C:\Users\blame\Desktop\VSprojects\Sumator\Sumator\bin\Debug\Sumator.exe.config
+C:\Users\blame\Desktop\VSprojects\Sumator\Sumator\bin\Debug\Sumator.exe
+C:\Users\blame\Desktop\VSprojects\Sumator\Sumator\bin\Debug\Sumator.pdb
+C:\Users\blame\Desktop\VSprojects\Sumator\Sumator\obj\Debug\Sumator.csprojResolveAssemblyReference.cache
+C:\Users\blame\Desktop\VSprojects\Sumator\Sumator\obj\Debug\Sumator.Sumator.resources
+C:\Users\blame\Desktop\VSprojects\Sumator\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+C:\Users\blame\Desktop\VSprojects\Sumator\Sumator\obj\Debug\Sumator.csproj.GenerateResource.Cache
+C:\Users\blame\Desktop\VSprojects\Sumator\Sumator\obj\Debug\Sumator.exe
+C:\Users\blame\Desktop\VSprojects\Sumator\Sumator\obj\Debug\Sumator.pdb
+C:\Users\blame\Desktop\VSprojects\Sumator\Sumator\bin\Debug\blame.accdb

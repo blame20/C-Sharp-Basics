@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\05.TheBiggest3Numbers\bin\Debug\05.TheBiggest3Numbers.exe.config
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\05.TheBiggest3Numbers\bin\Debug\05.TheBiggest3Numbers.exe
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\05.TheBiggest3Numbers\bin\Debug\05.TheBiggest3Numbers.pdb
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\05.TheBiggest3Numbers\obj\Debug\05.TheBiggest3Numbers.exe
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\05.TheBiggest3Numbers\obj\Debug\05.TheBiggest3Numbers.pdb

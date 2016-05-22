@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\13.CheckBitGivenPosition\bin\Debug\13.CheckBitGivenPosition.exe.config
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\13.CheckBitGivenPosition\bin\Debug\13.CheckBitGivenPosition.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\13.CheckBitGivenPosition\bin\Debug\13.CheckBitGivenPosition.pdb
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\13.CheckBitGivenPosition\obj\Debug\13.CheckBitGivenPosition.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\13.CheckBitGivenPosition\obj\Debug\13.CheckBitGivenPosition.pdb

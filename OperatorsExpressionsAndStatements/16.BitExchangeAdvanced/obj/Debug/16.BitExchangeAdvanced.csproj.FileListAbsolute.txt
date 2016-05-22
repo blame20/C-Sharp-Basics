@@ -1,0 +1,5 @@
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe.config
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.pdb
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.exe
+C:\Users\blame\Desktop\VSprojects\OperatorsExpressionsAndStatements\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.pdb

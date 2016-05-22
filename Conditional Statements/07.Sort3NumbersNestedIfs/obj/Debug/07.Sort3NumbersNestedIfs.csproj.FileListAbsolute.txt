@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\07.Sort3NumbersNestedIfs\bin\Debug\07.Sort3NumbersNestedIfs.exe.config
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\07.Sort3NumbersNestedIfs\bin\Debug\07.Sort3NumbersNestedIfs.exe
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\07.Sort3NumbersNestedIfs\bin\Debug\07.Sort3NumbersNestedIfs.pdb
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\07.Sort3NumbersNestedIfs\obj\Debug\07.Sort3NumbersNestedIfs.exe
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\07.Sort3NumbersNestedIfs\obj\Debug\07.Sort3NumbersNestedIfs.pdb
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\07.Sort3NumbersNestedIfs\obj\Debug\07.Sort3NumbersNestedIfs.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe.config
+C:\Users\blame\Desktop\VSprojects\Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe
+C:\Users\blame\Desktop\VSprojects\Loops\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.pdb
+C:\Users\blame\Desktop\VSprojects\Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.exe
+C:\Users\blame\Desktop\VSprojects\Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.pdb
+C:\Users\blame\Desktop\VSprojects\Loops\15.HexadecimalToDecimalNumber\obj\Debug\15.HexadecimalToDecimalNumber.csprojResolveAssemblyReference.cache

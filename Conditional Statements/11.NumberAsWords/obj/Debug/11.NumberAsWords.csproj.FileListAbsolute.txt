@@ -1,0 +1,6 @@
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb
+C:\Users\blame\Desktop\VSprojects\Conditional Statements\11.NumberAsWords\obj\Debug\11.NumberAsWords.csprojResolveAssemblyReference.cache
